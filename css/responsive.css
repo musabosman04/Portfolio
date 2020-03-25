@@ -1,0 +1,50 @@
+/*
+  Support: musadtaid@gmail.com
+*/
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+	
+}
+@media only screen and (max-width: 767px) {
+	.profile-image{
+		margin-top: 100px;
+	}
+	.main-info-section {
+		margin-top: 30px;
+	}
+		
+}
+@media only screen  and (min-width: 991px) {
+	.min{
+		display: none;
+	}
+}
+@media only screen  and (max-width: 990px) {
+	.max{
+		display: none;
+	}
+	.main-info-section .text{
+		margin-top: 40px;
+	}
+}
+@media only screen  and (max-width: 477px) {
+	 .about-box{
+		 margin: 0;
+	 }
+	 .display-1{
+		 font-size: 3rem;
+	 }
+}
+@media 
+	only screen and (-webkit-min-device-pixel-ratio: 2),
+	only screen and (min-device-pixel-ratio: 2) {
+	
+
+
+
+
+
+	
+}
